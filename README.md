@@ -1,4 +1,4 @@
-# A-Constru-o-da-Reserva-de-Emerg-ncia-como-Estrat-gia-de-Planejamento-Financeiro-Pessoal
+# A-Construcao-da-Reserva-de-Emergencia-como-Estrategia-de-Planejamento-Financeiro-Pessoal
 Repositório desenvolvido para documentar um estudo sobre a construção da reserva de emergência utilizando o NotebookLM, reunindo fontes confiáveis, engenharia de prompts e um miniguia de estudo sobre planejamento financeiro pessoal.
 A reserva de emergência é reconhecida como um dos principais pilares da educação financeira, pois proporciona segurança diante de imprevistos e reduz a necessidade de recorrer a linhas de crédito de alto custo, como cartão de crédito e cheque especial. Além de proteger o patrimônio construído ao longo do tempo, ela permite que o investidor mantenha sua estratégia de longo prazo mesmo em períodos de instabilidade econômica.
 
